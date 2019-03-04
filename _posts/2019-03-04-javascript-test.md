@@ -8,3 +8,5 @@ categories: Javascript
 ---
 
 <style type="text/css"> #mynetwork { width: 600px; height: 400px; border: 1px solid lightgray; } </style>
+<div id="mynetwork"></div>
+<br>
