@@ -3,7 +3,7 @@ layout: post
 title: "Adding Javascript"
 date: 2019-03-04
 Jsrr:
-- graphs/dag_default.ps
+- graphs/dag_default.js
 categories: Javascript
 ---
 
