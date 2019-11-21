@@ -22,4 +22,8 @@ at the University of Wisconsin (1991-2006).
 
 I also taught introductory computer programming at the University of 
 Wisconsin (1985-1991) and authored a book on artificial neural networks
-in artificial intelligence.
+in artificial intelligence. 
+
+These are some of the technologies I have experience with: Lisp, Python, R,
+Stata, SAS, SQL (various variants including MySQL), Javascript, HTML,
+and LaTex.
