@@ -3,8 +3,7 @@ layout: default
 title: Matt Zeidenberg's Personal Page
 ---
 
-<img src="MZ_Headshot_Buda.jpg" width="200">
-
+<img align="left" src="MZ_Headshot_Buda.jpg" width="200">
 Hi, I'm Matt Zeidenberg; welcome to my personal web site. 
 I'm a data scientist, computer scientist,
 sociolologist, and writer living in Brooklyn, New York with my wife and 
