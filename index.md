@@ -26,4 +26,4 @@ in artificial intelligence.
 
 These are some of the technologies I have experience with: Lisp, Python, R,
 Stata, SAS, SQL (various variants including MySQL), Javascript, HTML,
-and LaTex.
+and LaTeX.
