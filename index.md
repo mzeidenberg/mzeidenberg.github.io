@@ -4,6 +4,7 @@ title: Matt Zeidenberg's Personal Page
 ---
 
 ![MZ headshot](MZ_Headshot_Buda.jpg)
+
 Hi, I'm Matt Zeidenberg; welcome to my personal web site. 
 I'm a data scientist, computer scientist,
 sociolologist, and writer living in Brooklyn, New York with my wife and 
