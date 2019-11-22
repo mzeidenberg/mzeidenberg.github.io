@@ -1,3 +1,5 @@
+{% include mathjax.html %}
+
 Issues in Neural Network Modeling
 =================================
 
