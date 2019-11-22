@@ -1,4 +1,7 @@
-{% include mathjax.html %}
+---
+layout: default
+title: Matt Zeidenberg's Personal Page
+---
 
 Issues in Neural Network Modeling
 =================================
