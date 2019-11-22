@@ -6,8 +6,6 @@ title: Neural Network Book
 Issues in Neural Network Modeling
 =================================
 
-https://www.overleaf.com/project/58bec780301ac2d27b06faac
-
 Introduction
 ------------
 
