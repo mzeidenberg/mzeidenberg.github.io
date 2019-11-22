@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Matt Zeidenberg's Personal Page
+title: Neural Network Book
 ---
 
 Issues in Neural Network Modeling
